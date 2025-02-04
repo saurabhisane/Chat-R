@@ -14,14 +14,9 @@ Chat-R is a feature-rich Flutter-based chat application that enables real-time c
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/chat-home.png" width="30%" alt="Home Screen">
-  <img src="assets/screenshots/chat-screen.png" width="30%" alt="Chat Screen">
-  <img src="assets/screenshots/group-chat.png" width="30%" alt="Group Chat Screen">
-</p>
-<p align="center">
-  <img src="assets/screenshots/profile-screen.png" width="30%" alt="Profile Screen">
-  <img src="assets/screenshots/settings-screen.png" width="30%" alt="Settings Screen">
-  <img src="assets/screenshots/login-screen.png" width="30%" alt="Login Screen">
+  <img src="assets/WhatsApp Image 2025-02-04 at 23.36.23_a8213261.jpg" width="30%" alt="Login Screen">
+  <img src="assets/WhatsApp Image 2025-02-04 at 23.36.22_185db488.jpg" width="30%" alt="Sign-Up Screen">
+  <img src="assets/WhatsApp Image 2025-02-04 at 23.36.23_1a14dc7e.jpg" width="30%" alt="Group Chat Screen">
 </p>
 
 ## 🛠 Installation
