@@ -9,8 +9,7 @@ Chat-R is a feature-rich Flutter-based chat application that enables real-time c
 - **Group Chats**: Create and manage group conversations effortlessly.
 - **Media Sharing**: Send images, videos, and documents securely.
 - **Profile Customization**: Update user information, set profile pictures, and manage settings.
-- **Cross-Platform Support**: Works on iOS, Android, Web, Windows, macOS, and Linux.
-- **Dark Mode**: Toggle between light and dark themes for an enhanced user experience.
+
 
 ## 📸 Screenshots
 
