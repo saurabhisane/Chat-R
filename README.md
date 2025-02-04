@@ -128,4 +128,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Developed by [Saurabh Isane](https://github.com/saurabhisane). For queries or support, please contact [saurabhisane@example.com](mailto:saurabhisane@example.com).
+Developed by [Saurabh Isane](https://github.com/saurabhisane). For queries or support, please contact [isanesaurabh@gmail.com](mailto:isanesaurabh@gmail.com).
