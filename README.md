@@ -88,14 +88,10 @@ Chat-R/
 
 ### lib/screens/
 
-- `chat_home_screen.dart`: Displays a list of conversations and recent chats.
-- `chat_screen.dart`: Handles one-on-one messaging.
-- `group_chat_screen.dart`: Enables group conversations with multiple participants.
+
 - `login_screen.dart`: Manages user authentication and login.
-- `profile_screen.dart`: Allows users to update their profile and preferences.
-- `settings_screen.dart`: Provides customization options and settings.
 - `signup_screen.dart`: Facilitates new user registration.
-- `splash_screen.dart`: Initial loading screen when the app launches.
+- `group_chat_screen.dart`: Enables group conversations with multiple participants.
 
 ## 🤝 Contributing
 
