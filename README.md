@@ -2,6 +2,16 @@
 
 Chat-R is a feature-rich Flutter-based chat application that enables real-time communication across multiple platforms. Whether for personal or professional use, Chat-R provides an intuitive interface with seamless messaging capabilities.
 
+- **Flutter**: The main framework used to build a cross-platform application.
+- **Dart**: The programming language used in Flutter for building a fast and efficient user interface.
+- **Firebase**:
+  - **Authentication**: Secure user login and registration.
+  - **Firestore**: Cloud-based NoSQL database for real-time chat and message synchronization.
+  - **Storage**: Handles media uploads and file sharing.
+- **REST APIs**: Integrates with backend services and third-party APIs when needed.
+- **Cloudinary**: A cloud-based media management service used for optimized image and video storage, processing, and delivery.
+
+
 ## 🚀 Features
 
 - **Real-time Messaging**: Instant chat with smooth and secure message delivery.
